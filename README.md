@@ -161,6 +161,6 @@ The program generates:
 
 ## Author
 
-Atharva
+Satyam
 
 ---
