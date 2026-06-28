@@ -1,0 +1,31 @@
+Order_ID,Customer_Name,City,Product,Category,Quantity,Price_Per_Unit,Total_Sales,Payment_Method
+1001,Rahul Sharma,Mumbai,Laptop,Electronics,1,55000,55000,UPI
+1002,Priya Patel,Ahmedabad,Smartphone,Electronics,2,18000,36000,Credit Card
+1003,Aman Verma,Delhi,Headphones,Accessories,3,2000,6000,Cash
+1004,Sneha Iyer,Bangalore,Tablet,Electronics,1,25000,25000,Debit Card
+1005,Karan Mehta,Pune,Keyboard,Accessories,2,1500,3000,UPI
+1006,Neha Joshi,Hyderabad,Monitor,Electronics,1,12000,12000,Credit Card
+1007,Rohan Kulkarni,Nagpur,Mouse,Accessories,4,800,3200,Cash
+1008,Simran Kaur,Chandigarh,Printer,Electronics,1,9000,9000,Debit Card
+1009,Aditya Singh,Lucknow,Laptop,Electronics,1,62000,62000,UPI
+1010,Pooja Nair,Kochi,Smartwatch,Wearables,2,7000,14000,Credit Card
+1011,Vikram Rao,Chennai,Camera,Electronics,1,45000,45000,Cash
+1012,Anjali Deshmukh,Nashik,Speaker,Accessories,2,3500,7000,UPI
+1013,Arjun Kapoor,Delhi,AC,Home Appliances,1,38000,38000,Debit Card
+1014,Meera Shah,Mumbai,Refrigerator,Home Appliances,1,52000,52000,Credit Card
+1015,Sachin Yadav,Indore,Washing Machine,Home Appliances,1,30000,30000,UPI
+1016,Kavya Reddy,Hyderabad,Microwave,Home Appliances,2,8500,17000,Cash
+1017,Harsh Jain,Jaipur,Power Bank,Accessories,5,1200,6000,UPI
+1018,Ishita Roy,Kolkata,Smartphone,Electronics,1,22000,22000,Credit Card
+1019,Raj Malhotra,Noida,Laptop,Electronics,2,58000,116000,Debit Card
+1020,Deepak Kumar,Patna,Mouse Pad,Accessories,3,500,1500,Cash
+1021,Nidhi Agarwal,Kanpur,Tablet,Electronics,1,27000,27000,UPI
+1022,Varun Shetty,Mangalore,Router,Electronics,2,3000,6000,Credit Card
+1023,Tanvi Chavan,Pune,Earbuds,Accessories,4,2500,10000,Debit Card
+1024,Yash Thakur,Bhopal,TV,Electronics,1,48000,48000,UPI
+1025,Ritika Sen,Kolkata,Air Cooler,Home Appliances,2,11000,22000,Cash
+1026,Abhishek Mishra,Varanasi,Keyboard,Accessories,3,1800,5400,Credit Card
+1027,Shreya Pillai,Thane,Smartwatch,Wearables,1,9500,9500,UPI
+1028,Manish Gupta,Gurgaon,Laptop,Electronics,1,67000,67000,Debit Card
+1029,Diya Kapoor,Mumbai,Speaker,Accessories,2,4000,8000,Cash
+1030,Ritesh Pawar,Navi Mumbai,Monitor,Electronics,1,15000,15000,Credit Card

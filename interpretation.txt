@@ -1,0 +1,26 @@
+
+Retail Sales Statistical Analysis Report
+========================================
+
+The Total Sales distribution was analyzed using
+histograms, KDE plots, and boxplots.
+
+The histogram and KDE plot indicate the overall
+distribution pattern of sales values.
+
+The mean sales value is 25920.0
+while the median sales value is 16000.0.
+
+The boxplot identified possible outliers in the dataset,
+especially among high-value electronic products.
+
+Category-wise comparison showed variation in sales
+distribution between Electronics, Accessories,
+and Home Appliances.
+
+The skewness value is 1.77,
+indicating that the distribution is positively skewed.
+
+Higher sales values from premium products such as
+laptops and air conditioners contribute to the
+spread and skewness of the data.
